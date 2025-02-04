@@ -14,7 +14,7 @@ La Base di dati riguarderà una organizzazione a scelta dello studente.
 - Progettazione
   - Progettazione concettuale
   - Progettazione logica:
-    Sforzatevi a pensare ad uno schema che necessiti di molte delle seguenti operazioni (sarete valutati anche su questo!).
+    sforzatevi a pensare ad uno schema che necessiti di molte delle seguenti operazioni (sarete valutati anche su questo!).\\
     Giustificare ogni operazione:
      - Analisi delle ridondanze (almeno una significativa)
      - Eliminazione delle generalizzazioni
