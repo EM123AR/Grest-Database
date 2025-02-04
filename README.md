@@ -16,13 +16,13 @@ La Base di dati riguarderà una organizzazione a scelta dello studente.
   - Progettazione logica:
     Sforzatevi a pensare ad uno schema che necessiti di molte delle seguenti operazioni (sarete valutati anche su questo!).
     Giustificare ogni operazione:
-   - Analisi delle ridondanze (almeno una significativa)
-   - Eliminazione delle generalizzazioni
-   - Partizionamento/accorpamento di entità e relazioni
-   - Scelta degli identificatori primari
-   - Diagramma schema ristrutturato- Schema relazionale
-   - Descrizione Schema relazionale
-   - Eventuali vincoli di integrità referenziale
+     - Analisi delle ridondanze (almeno una significativa)
+     - Eliminazione delle generalizzazioni
+     - Partizionamento/accorpamento di entità e relazioni
+     - Scelta degli identificatori primari
+     - Diagramma schema ristrutturato- Schema relazionale
+     - Descrizione Schema relazionale
+     - Eventuali vincoli di integrità referenziale
   - Progettazione fisica (indici)
 - Realizzazione
   - (PostgreSQL and software in C)
