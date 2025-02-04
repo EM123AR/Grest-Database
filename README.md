@@ -10,13 +10,13 @@
 # Specifiche di progetto
 ## Il progetto
 La Base di dati riguarderà una organizzazione a scelta dello studente. 
-● Analisideirequisiti
-● Progettazione
- ○ Progettazioneconcettuale
- ○ Progettazionelogica
- ○ Progettazionefisica(indici)
-● Realizzazione
- (PostgreSQL and software in C)
+- Analisideirequisiti
+- Progettazione
+-- Progettazioneconcettuale
+-- Progettazionelogica
+-- Progettazionefisica(indici)
+- Realizzazione
+-- (PostgreSQL and software in C)
 
 ## Relazione
 Il progetto deve essere accompagnato da una relazione che ne illustri le fasi di progettazione, realizzazione e test ed evidenzi il ruolo svolto dai singoli componenti del gruppo.
