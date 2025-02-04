@@ -10,38 +10,29 @@
 # Specifiche di progetto
 ## Il progetto
 La Base di dati riguarderà una organizzazione a scelta dello studente. 
-- Analisideirequisiti
+- Analisi dei requisiti
 - Progettazione
-  - Progettazioneconcettuale
-  - Progettazionelogica
-  - Progettazionefisica(indici)
+  - Progettazione concettuale
+  - Progettazione logica:
+    Sforzatevi a pensare ad uno schema che necessiti di molte delle seguenti operazioni (sarete valutati anche su questo!).
+    Giustificare ogni operazione:
+   - Analisi delle ridondanze (almeno una significativa)
+   - Eliminazione delle generalizzazioni
+   - Partizionamento/accorpamento di entità e relazioni
+   - Scelta degli identificatori primari
+   - Diagramma schema ristrutturato- Schema relazionale
+   - Descrizione Schema relazionale
+   - Eventuali vincoli di integrità referenziale
+  - Progettazione fisica (indici)
 - Realizzazione
   - (PostgreSQL and software in C)
 
 ## Relazione
-Il progetto deve essere accompagnato da una relazione che ne illustri le fasi di progettazione, realizzazione e test ed evidenzi il ruolo svolto dai singoli componenti del gruppo.
-Viene richiesta un'analisi iniziale delle caratteristiche degli utenti che il sito si propone di raggiungere e le possibili ricerche sui motori di ricerca a cui il sito deve rispondere.  Inoltre si devono indicare le azioni intraprese per migliorare il ranking del sito.
-Le pagine web devono essere accessibili indipendentemente dal browser e dalle dimensioni dello schermo del dispositivo degli utenti. Considerazioni riguardanti diversi dispositivi (laddove possibile) verranno valutate positivamente.
-Il non rispetto di anche una sola di queste specifiche comporta la non sufficienza del progetto.
+
 
 # Valutazione
-
-
-# Info Utili
-## Versione Server
-- Versione PHP Server Tecweb: 8.2.26
-- Versione SQL Server: MariaDB 10.11.6
-
-## Creazione del server in locale con docker
-Nella cartella LuzzAuto:  
-Per eliminare i volumi associati se avete già un container errato:
-```cmd
-docker-compose down -v
-```
-Successivamente creare il container:
-```cmd
-docker-compose build
-```
-```cmd
-docker-compose up -d
-```
+Gli elementi che verranno presi in considerazione ai fini della valutazione finale saranno:
+- Correttezza dei risultati
+- Complessità del problema affrontato
+- Appropriatezza della metodologia seguita
+- Chiarezza espositiva
