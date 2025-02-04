@@ -44,13 +44,23 @@ Il Progetto deve includere:
  - Almeno3 query devono utilizzare il “group by” e/o gli operatori aggregati
  - Almeno1 query deve utilizzare il “group by” e “having”
 - Almeno un indice significativo: scegliere una delle query e creare un indice significativo, motivando la scelta.\
+
 Per ogni query si deve produrre:
 - Descrizione testuale
 - Codice SQL
 - Screenshots dell’output delle query relativo a uno stato della base di dati anche non corrispondente a quello nel momento della consegna
-- Codice C cheesegue e stampa a video le query
+- Codice C cheesegue e stampa a video le query\
 
-## Relazione
+ Introdurre almeno un indice:
+ . Selezionare almeno una delle query definite
+ - Definire un indice significativo per tale query, motivando la scelta.
+ - Implementare l’indice (inserire codice anche all’interno della relazione)
+
+## Vincoli
+ Per essere accettabile un progetto deve possedere i seguenti requisiti minimi.
+ - Il diagramma E-R del progetto deve contenere un numero adeguato di entità (≥ 5) escluse quelle coinvolte da una gerarchia (conta solo l’entità padre)
+ - Almeno una gerarchia significativa
+ - Un esempio di relazione per ogni tipo di cardinalità (1:N, 1:1, N:M)
 
 
 # Valutazione
