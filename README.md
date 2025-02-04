@@ -43,7 +43,7 @@ Il Progetto deve includere:
  - Una query è significativa se coinvolge almeno due “relations” (cioè tabelle)
  - Almeno3 query devono utilizzare il “group by” e/o gli operatori aggregati
  - Almeno1 query deve utilizzare il “group by” e “having”
-- Almeno un indice significativo: scegliere una delle query e creare un indice significativo, motivando la scelta.\
+- Almeno un indice significativo: scegliere una delle query e creare un indice significativo, motivando la scelta.
 
 Per ogni query si deve produrre:
 - Descrizione testuale
