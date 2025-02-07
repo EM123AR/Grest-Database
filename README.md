@@ -82,7 +82,7 @@ Gli elementi che verranno presi in considerazione ai fini della valutazione fina
                   <tr  aria-label="Gruppo di livelli" role="radiogroup">
                      <td   style="width: 14%;" tabindex="0" aria-label="Livello Nessuna imperfezione, punti 3." role="radio" aria-checked="true">
                         <div>
-                           <div  >Nessuna imperfezione</div>
+                           <div >Nessuna imperfezione</div>
                            <div ><span  >3 su 3</span> punti</div>
                         </div>
                      </td>
